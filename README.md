@@ -1,2 +1,2 @@
 # Netflix Movie's and Tv Show Data Analysis using SQL
-![Netflix Logo]()
+![Netflix Logo](https://www.google.com/imgres?q=netflix&imgurl=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Freviews%2F05cItXL96l4LE9n02WfDR0h-5..v1582751026.png&imgrefurl=https%3A%2F%2Fwww.pcmag.com%2Freviews%2Fnetflix&docid=UJ7BHHPqAOXjjM&tbnid=L5FicsSkczX7cM&vet=12ahUKEwjsiobb9PSTAxVT4jgGHUXuFbQQnPAOegQIExAB..i&w=1280&h=720&hcb=2&ved=2ahUKEwjsiobb9PSTAxVT4jgGHUXuFbQQnPAOegQIExAB)
